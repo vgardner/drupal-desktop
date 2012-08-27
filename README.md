@@ -1,4 +1,4 @@
-drupal-desktop
+Drupal Desktop Tools
 ==============
 
-Drupal Desktop Tools - Manage Drupal projects using a handy Desktop a application.
+Manage Drupal projects using a handy Desktop a application.
